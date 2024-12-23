@@ -1,0 +1,10 @@
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/LearningAppApplication.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/service/UserService.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/controller/UserController.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/config/SecurityConfig.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/repository/UserRepository.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/util/JwtUtil.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/model/User.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/filter/JwtAuthenticationFilter.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/controller/AuthController.java
+/home/clear/Backend_Projects/Learning_Platform_java/box-learning-service/src/main/java/com/learn/learningapp/App.java
