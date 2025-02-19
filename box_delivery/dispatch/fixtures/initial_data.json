@@ -1,0 +1,41 @@
+[
+  {
+    "model": "dispatch.box",
+    "pk": 1,
+    "fields": {
+      "txref": "BOX001",
+      "weight_limit": 500,
+      "battery_capacity": 80,
+      "state": "IDLE"
+    }
+  },
+  {
+    "model": "dispatch.box",
+    "pk": 2,
+    "fields": {
+      "txref": "BOX002",
+      "weight_limit": 400,
+      "battery_capacity": 50,
+      "state": "IDLE"
+    }
+  },
+  {
+    "model": "dispatch.item",
+    "pk": 1,
+    "fields": {
+      "name": "item1",
+      "weight": 100,
+      "code": "ITEM_001"
+    }
+  },
+  {
+    "model": "dispatch.item",
+    "pk": 2,
+    "fields": {
+      "name": "item2",
+      "weight": 200,
+      "code": "ITEM_002"
+    }
+  }
+]
+
